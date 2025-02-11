@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="waiting_for_nfc">Waiting for NFC…</string>
+    <string name="received_nfc_data">"Received NFC Data: "</string>
+    <string name="nfc_is_not_supported_on_this_device">NFC is NOT supported on this device.</string>
+    <string name="nfc_is_disabled_please_enable_it_in_settings">NFC is disabled. Please enable it in settings.</string>
+</resources>
